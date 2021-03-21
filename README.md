@@ -1,7 +1,7 @@
 # Python-File-Split-and-Merge
 These scripts are an extension of the [filesplit library](https://github.com/ram-jayapalan/filesplit, "Github Repository of filesplit"). These scripts provide the felixibilty of using command line arguments with 
 the filesplit library thus making it more effective and easy to use. 
-Note: This script does not extend all the features of the filsplit library, but does include most commonly used features.
+Note: These scripts do not extend all the features of the filsplit library, but does include most commonly used features.
 
 ## split.py
 The split.py script splits the given file into multiple chunks. The script accepts the following arguments:
