@@ -32,4 +32,4 @@ The merge.py script merges the split files into a sigle file. The script accepts
 
 .. code-block:: python
 
-    python merge.py -i "/path/to/input/dir" -o "output_file_name" -s 10000000 -l True -n True -ih True
+    python merge.py -i "/path/to/input/dir" -o "output_file_name" -l True
